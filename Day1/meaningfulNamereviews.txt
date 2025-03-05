@@ -1,0 +1,20 @@
+review1:- 
+    1. The variable "d" is not following the coding guidelines.
+    2. The variable "d" is not a meaningful name.
+review2:-
+    1. The variable var leads to slower compile time and reduce code readibility.
+ 
+review3:-
+    1. No need to mention the datatype in the variable name.
+ 
+review4:-
+    1. mention of public in paramter
+ 
+review5:-
+    1. use same casing for all
+ 
+review6:-
+    1. rewriting of context
+ 
+review7: -
+    employeephone is not initialized.

@@ -1,0 +1,6 @@
+review1 => instead of using if,else put all the strings in a list.
+review3 => code lines can be reduced and instead of using nested if's use separate if.
+review4 => give a proper variable name
+review5 => don't use magic number(hardcoded)
+review6 => rewriting of context("car")
+review9 => use default parameter
